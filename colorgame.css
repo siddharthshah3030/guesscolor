@@ -4,8 +4,6 @@ body {
 	font-family: "Montserrat", "Avenir";
 }
 
-
-
 .square {
 	width: 30%;
 	background: purple;
@@ -14,37 +12,25 @@ body {
 	margin: 1.66%;
 	border-radius: 15%;
 	transition: background 1s;
-
 }
-
-
 
 #container {
 	margin: 20px auto;
 	max-width: 600px;
 }
 
-
-
-
 h1 div{
 	font-size: 65%;
 	font-style: italic;
-
-
 }
-
-
-
 
 h1 {
 	text-align: center;
 	line-height: 1;
 	font-weight: normal;
-	    color: white;
-	    
+	color: white;
 	background: steelblue;
-	    margin: 0;
+	margin: 0;
 	text-transform: uppercase;
 	padding: 20px 0;
 }
@@ -53,20 +39,13 @@ h1 {
 	font-size: 150%;
 }
 
-
-
-
 #message {
 	display: inline-block;
 	width: 20%;
 }
 
-
-
-
 #stripe {
 	background: white;
-	
 	height: 30px;
 	text-align: center;
 	color: black;
@@ -83,18 +62,11 @@ button {
 	text-transform: uppercase;
 	height: 100%;
 	font-weight: 700;
-	
-
-color: steelblue;
-letter-spacing: 1px;
-font-size: inherit;
-transition: all 0.3s;
-
+	color: steelblue;
+	letter-spacing: 1px;
+	font-size: inherit;
+	transition: all 0.5s;
 }
-
-
-
-
 button:hover {
 	color: white;
 	background: steelblue;
